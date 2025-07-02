@@ -1,6 +1,6 @@
 # 🎨 Compose Mock Preview
 
-A cross-platform Kotlin library to automatically generate mock data in Jetpack Compose @Previews using KSP.
+A Kotlin library to automatically generate mock data in Jetpack Compose @Previews using KSP.
 
 ---
 
@@ -14,7 +14,7 @@ A cross-platform Kotlin library to automatically generate mock data in Jetpack C
 
 ---
 
-## 📦 Installation
+## 📦 Installation ( In progress )
 
 add KSP plugin in your `build.gradle.kts` :
 
