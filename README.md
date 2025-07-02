@@ -6,11 +6,11 @@ A Kotlin library to automatically generate mock data in Jetpack Compose @Preview
 
 ## 🚀 Feature
 
-- ✅ Automatic generation `PreviewParameterProvider`
-- ✅ Nested data class support
-- ✅ Custom annotations: `@LongMessagePreview`, `@ShortMessagePreview`, etc.
-- ✅ Centralized configuration via `ComposePreviewMockConfig`
-- ✅ Compatible with KSP + KotlinPoet
+- Automatic generation `PreviewParameterProvider`
+- Nested data class support
+- Custom annotations: `@LongMessagePreview`, `@ShortMessagePreview`, etc.
+- Centralized configuration via `ComposePreviewMockConfig`
+- Compatible with KSP + KotlinPoet
 
 ---
 
